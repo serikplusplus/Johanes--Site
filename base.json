@@ -1,0 +1,9 @@
+{
+	"baseInfo": {
+		"types": ["Hair", "Face", "Plastic", "Dental"],
+		"countries": [
+			{ "title": "Ukraine", "stack": ["Hair", "Face"] },
+			{ "title": "France", "stack": ["Hair"] }
+		]
+	}
+}
