@@ -1,0 +1,43 @@
+{
+	"chat": [
+		{
+			"id": 0,
+			"userMessage": "Hello",
+			"messageTime": "17:28",
+			"messageDate": "June 21"
+		},
+		{
+			"id": 0,
+			"userMessage": "How are you?",
+			"messageTime": "17:29",
+			"messageDate": "June 21"
+		},
+		{
+			"id": 1,
+			"userName": "Ivan",
+			"userMessage": "Hello, im good, and you?",
+			"messageTime": "18:48",
+			"messageDate": "June 21"
+		},
+		{
+			"id": 1,
+			"userName": "Ivan",
+			"userMessage": "Hello, im good, and you?",
+			"messageTime": "18:49",
+			"messageDate": "June 21"
+		},
+		{
+			"id": 2,
+			"userName": "Roma",
+			"userMessage": "Nice",
+			"messageTime": "19:01",
+			"messageDate": "June 21"
+		},
+		{
+			"id": 0,
+			"userMessage": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio error distinctio exercitationem, labore itaque quasi dignissimos fugiat officia soluta consequatu eumad temporibus voluptas quod aut, eos sed id ipsum!",
+			"messageTime": "11:23",
+			"messageDate": "June 22"
+		}
+	]
+}
